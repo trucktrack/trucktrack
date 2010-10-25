@@ -12,3 +12,4 @@ spec/spec.opts
 build/*
 .idea
 .rvmrc
+doc/*
