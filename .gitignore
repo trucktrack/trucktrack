@@ -1,0 +1,13 @@
+db/schema.rb
+log/*
+tmp/*
+.DS_Store
+vendor/bin
+vendor/gems
+vendor/doc
+vendor/specifications
+.bundle
+db/*.sqlite3
+spec/spec.opts
+build/*
+.idea
